@@ -1,24 +1,21 @@
 # BlockBlitz
-
-
 <img width="499" height="763" alt="изображение" src="https://github.com/user-attachments/assets/42850b0e-7906-4c0c-bac0-2b0ce3fe74fb" />
+Qt/C++ Project. The following is a write-up handed in with the assignment.
 
-
-Major C++ Project. The following is a write-up handed in with the assignment.
 
 # Окно регистрации
-Встречает игроков стильным окном авторизации, где можно войти под существующим именем пользователя или зарегистрировать новый аккаунт. Интуитивный интерфейс с проверкой ввода и поддержкой QSS-стилей обеспечивает удобный старт игры. Регистрация сохраняет данные локально, позволяя игрокам возвращаться к своим достижениям.
+Встречает игроков стильным окном авторизации, где можно войти под существующим именем пользователя или зарегистрировать новый аккаунт. \
+Интуитивный интерфейс с проверкой ввода и поддержкой QSS-стилей обеспечивает удобный старт игры. \ 
+Регистрация сохраняет данные локально, позволяя игрокам возвращаться к своим достижениям. \
 <img width="433" height="327" alt="изображение" src="https://github.com/user-attachments/assets/8cf7357e-0b0e-4764-a954-dd837418af50" />
 
 # Description
-
 **BlockBlitz** offers three exciting game modes: \
 **Classic**: Traditional Tetris for a relaxing game.  
 **Marathon**: An accelerating pace with increasing difficulty.  
 **Challenge**: Clear the pre-filled fields in a limited time
 
 # Особенности
-
 1. Три режима: Classic, Marathon и Challenge.  
 2. Интуитивное управление: перемещение, вращение, мгновенное падение.  
 3. Система комбо и бонусы за быстрые действия.
