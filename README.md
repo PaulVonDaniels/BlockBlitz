@@ -16,7 +16,8 @@ Qt/C++ Project. The following is a write-up handed in with the assignment.
 **Challenge**: Clear the pre-filled fields in a limited time 
 
 
-<img width="373" height="373" alt="изображение" src="https://github.com/user-attachments/assets/9b681ba2-214a-4d10-8f6e-9ea7a279602c" />
+<img width="367" height="370" alt="изображение" src="https://github.com/user-attachments/assets/ed35354c-6992-4793-bf94-218a5b38191d" />
+
 
 # Особенности
 1. Три режима: Classic, Marathon и Challenge.  
