@@ -5,6 +5,9 @@ https://user-images.githubusercontent.com/70239160/154780145-1ba126a1-fa6a-4efc-
 
 Major C++ Project. The following is a write-up handed in with the assignment.
 
+# Окно регистрации
+Встречает игроков стильным окном авторизации, где можно войти под существующим именем пользователя или зарегистрировать новый аккаунт. Интуитивный интерфейс с проверкой ввода и поддержкой QSS-стилей обеспечивает удобный старт игры. Регистрация сохраняет данные локально, позволяя игрокам возвращаться к своим достижениям.
+<img width="433" height="327" alt="изображение" src="https://github.com/user-attachments/assets/8cf7357e-0b0e-4764-a954-dd837418af50" />
 
 # Description
 
