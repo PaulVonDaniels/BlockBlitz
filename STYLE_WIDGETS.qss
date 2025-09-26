@@ -1,0 +1,182 @@
+QWidget {
+    background-color: #ffffff;
+    color: #000000;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-size: 13px;
+}
+
+QDialog {
+    background-color: #ffffff;
+    border: 1px solid #c6c6c6;
+    border-radius: 10px;
+}
+
+QLabel {
+    background: transparent;
+    color: #000000;
+    font-size: 13px;
+    padding: 4px;
+}
+
+QLabel[objectName="titleLabel"] {
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000;
+    background: transparent;
+}
+
+QPushButton {
+    background-color: #007aff;
+    border: 1px solid #007aff;
+    border-radius: 6px;
+    color: white;
+    font-weight: normal;
+    padding: 8px 16px;
+    font-size: 13px;
+    min-width: 80px;
+    min-height: 28px;
+}
+
+QPushButton:hover {
+    background-color: #0056cc;
+    border: 1px solid #0056cc;
+}
+
+QPushButton:pressed {
+    background-color: #004499;
+    border: 1px solid #004499;
+}
+
+QPushButton:focus {
+    outline: 2px solid #007aff;
+    outline-offset: 2px;
+}
+
+QPushButton:disabled {
+    background-color: #a0a0a0;
+    border: 1px solid #a0a0a0;
+    color: #e0e0e0;
+}
+
+QLineEdit {
+    background-color: #ffffff;
+    border: 1px solid #c6c6c6;
+    border-radius: 6px;
+    color: #000000;
+    font-size: 13px;
+    padding: 8px;
+    selection-background-color: #007aff;
+}
+
+QLineEdit:focus {
+    border-color: #007aff;
+    background-color: #ffffff;
+}
+
+QLineEdit[echoMode="2"] {
+    font-family: 'Courier New', monospace;
+    letter-spacing: 2px;
+}
+
+QDialogButtonBox {
+    background: transparent;
+}
+
+QDialogButtonBox QPushButton {
+    min-width: 80px;
+}
+
+QMessageBox {
+    background-color: #ffffff;
+    border: 1px solid #c6c6c6;
+    border-radius: 10px;
+}
+
+QMessageBox QLabel {
+    color: #000000;
+    font-size: 13px;
+}
+
+QMessageBox QPushButton {
+    background-color: #007aff;
+    border: 1px solid #007aff;
+    border-radius: 6px;
+    color: white;
+    padding: 6px 12px;
+    min-width: 70px;
+}
+
+QMessageBox QPushButton:hover {
+    background-color: #0056cc;
+    border: 1px solid #0056cc;
+}
+
+TetrisWidget {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #1e3c72, stop: 1 #2a5298);
+    border: 1px solid #c6c6c6;
+}
+
+QMenuBar {
+    background-color: #f0f0f0;
+    color: #000000;
+    border: none;
+    padding: 4px;
+}
+
+QMenuBar::item {
+    background: transparent;
+    padding: 6px 12px;
+    border-radius: 4px;
+}
+
+QMenuBar::item:selected {
+    background: #e0e0e0;
+}
+
+QMenuBar::item:pressed {
+    background: #d0d0d0;
+}
+
+QMenu {
+    background-color: #ffffff;
+    border: 1px solid #c6c6c6;
+    border-radius: 6px;
+    color: #000000;
+    padding: 4px;
+}
+
+QMenu::item {
+    padding: 6px 24px;
+    border-radius: 4px;
+}
+
+QMenu::item:selected {
+    background: #007aff;
+    color: white;
+}
+
+QMenu::separator {
+    height: 1px;
+    background: #e0e0e0;
+    margin: 4px 8px;
+}
+
+QProgressBar {
+    border: 1px solid #c6c6c6;
+    border-radius: 4px;
+    text-align: center;
+    color: #000000;
+    background-color: #f0f0f0;
+}
+
+QProgressBar::chunk {
+    background: qlineargradient(x1: 0, y1: 0, x2: 1, y2: 0,
+                                stop: 0 #007aff, stop: 1 #0056cc);
+    border-radius: 3px;
+}
+
+QScrollBar:vertical {
+    background: #f0f0f0;
+    width: 12px;
+   
