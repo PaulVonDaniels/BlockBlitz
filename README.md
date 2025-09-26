@@ -7,7 +7,8 @@ Qt/C++ Project. The following is a write-up handed in with the assignment.
 Встречает игроков стильным окном авторизации, где можно войти под существующим именем пользователя или зарегистрировать новый аккаунт. \
 Интуитивный интерфейс с проверкой ввода и поддержкой QSS-стилей обеспечивает удобный старт игры.  
 Регистрация сохраняет данные локально, позволяя игрокам возвращаться к своим достижениям. \
-<img width="433" height="327" alt="изображение" src="https://github.com/user-attachments/assets/8cf7357e-0b0e-4764-a954-dd837418af50" />
+<img width="433" height="310" alt="изображение" src="https://github.com/user-attachments/assets/012aa7b0-d6ee-4981-bb59-374565b73a4f" />
+
 
 # Description
 **BlockBlitz** offers three exciting game modes: \
