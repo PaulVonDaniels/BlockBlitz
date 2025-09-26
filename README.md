@@ -3,10 +3,10 @@
 Qt/C++ Project. The following is a write-up handed in with the assignment.
 
 
-# Окно регистрации
-Встречает игроков стильным окном авторизации, где можно войти под существующим именем пользователя или зарегистрировать новый аккаунт. \
-Интуитивный интерфейс с проверкой ввода и поддержкой QSS-стилей обеспечивает удобный старт игры.  
-Регистрация сохраняет данные локально, позволяя игрокам возвращаться к своим достижениям. \
+# Registration window
+Greets players with a stylish authorization window where you can log in with an existing username or register a new account.  The
+intuitive interface with input verification and support for QSS styles provides a convenient start to the game.  
+Registration saves data locally, allowing players to go back to their achievements. \
 <img width="433" height="310" alt="изображение" src="https://github.com/user-attachments/assets/012aa7b0-d6ee-4981-bb59-374565b73a4f" />
 
 
@@ -20,19 +20,19 @@ Qt/C++ Project. The following is a write-up handed in with the assignment.
 <img width="367" height="370" alt="изображение" src="https://github.com/user-attachments/assets/ed35354c-6992-4793-bf94-218a5b38191d" />
 
 
-# Особенности
-1. Три режима: Classic, Marathon и Challenge.  
-2. Интуитивное управление: перемещение, вращение, мгновенное падение.  
-3. Система комбо и бонусы за быстрые действия.
-4. Авторизация и регистрация пользователей.
-5. Тень фигуры для точного размещения.
-6. Настраиваемый интерфейс через QSS.
-7. Плавный геймплей без лагов.
+# Features
+1. Three modes: Classic, Marathon and Challenge.
+2. Intuitive controls: Move, Spin, Instant drop.  
+3. Combo system and quick action bonuses.
+4. Authorization and registration of users.
+5. Shadow the shape for precise placement.
+6. Customizable interface via QSS.
+7. Smooth gameplay without lags.
 
-# Требования
-**Qt 5 или 6** (модуль `widgets`)  
-Компилятор с поддержкой **C++11**  
-Среда разработки (рекомендуется Qt Creator)  
+# Requirements
+**Qt 5 or 6** (the `widgets` module)  
+Compiler with support for **C++11**  
+Development environment (recommended by Qt Creator)
 
 
 # Testing
