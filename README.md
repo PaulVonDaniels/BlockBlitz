@@ -1,5 +1,5 @@
 # BlockBlitz
-<img width="499" height="763" alt="изображение" src="https://github.com/user-attachments/assets/42850b0e-7906-4c0c-bac0-2b0ce3fe74fb" />
+<img width="499" height="763" alt="изображение" src="https://github.com/user-attachments/assets/42850b0e-7906-4c0c-bac0-2b0ce3fe74fb" /> \
 Qt/C++ Project. The following is a write-up handed in with the assignment.
 
 
