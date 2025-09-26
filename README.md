@@ -8,7 +8,7 @@ Major C++ Project. The following is a write-up handed in with the assignment.
 
 # Description
 
-**BlockBlitz** предлагает три увлекательных режима игры:  
-- **Classic**: Традиционный Тетрис для спокойной игры.  
-- **Marathon**: Ускоряющийся темп с ростом сложности.  
-- **Challenge**: Очистите заранее заполненные поля за ограниченное время
+**BlockBlitz** offers three exciting game modes:
+- **Classic**: Traditional Tetris for a relaxing game.  
+- **Marathon**: An accelerating pace with increasing difficulty.  
+- **Challenge**: Clear the pre-filled fields in a limited time
