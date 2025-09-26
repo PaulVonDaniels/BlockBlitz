@@ -24,6 +24,6 @@ Major C++ Project. The following is a write-up handed in with the assignment.
 7. Плавный геймплей без лагов.
 
 # Требования
-- **Qt 5 или 6** (модуль `widgets`)  
-- Компилятор с поддержкой **C++11**  
-- Среда разработки (рекомендуется Qt Creator)  
+**Qt 5 или 6** (модуль `widgets`)  
+Компилятор с поддержкой **C++11**  
+Среда разработки (рекомендуется Qt Creator)  
