@@ -27,3 +27,8 @@ Major C++ Project. The following is a write-up handed in with the assignment.
 **Qt 5 или 6** (модуль `widgets`)  
 Компилятор с поддержкой **C++11**  
 Среда разработки (рекомендуется Qt Creator)  
+
+
+# Testing
+
+During several stages of creating my program and after I made significant changes that could affect the user experience, I collected feedback on how I could improve my program by adding, removing, or changing certain elements. One of the feedback I received at the end of my program was about how a user could learn to play if they had never played Tetris before. At that time, my game didn't have anything on how to play, so later I'll add a help screen that can be accessed from the Start menu by pressing "h". This menu shows all possible keys that the user can press while working with the program, and a few words describing what this key does. On the other side of the screen there is a description of the Tetris game and its purpose. There is also a small table below it showing which actions are awarded points and how many points are awarded for each action. After working with this menu, I think it has added a lot to the program and would be a great help for beginners in Tetris.
